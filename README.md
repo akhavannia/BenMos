@@ -5,3 +5,5 @@ http://www.nlc.org/Documents/Find%20City%20Solutions/Research%20Innovation/Infra
 
 http://gcn.com/articles/2014/06/04/granicus-appstore.aspx
 
+https://www.guardly.com/solutions/industry/city-community-safety/
+
