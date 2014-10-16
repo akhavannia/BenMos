@@ -20,7 +20,7 @@ BenMos
 
 **Node.js**
 
-http://nodeschool.io/
-https://www.openshift.com/products/pricing
-http://nodejs.org/
+1. http://nodeschool.io/
+2. https://www.openshift.com/products/pricing
+3. http://nodejs.org/
 
