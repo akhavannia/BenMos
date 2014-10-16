@@ -21,11 +21,17 @@ BenMos
 **Node.js**
 
 1. http://nodeschool.io/
-2. https://www.openshift.com/products/pricing
-3. http://nodejs.org/
-4. http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+2. http://nodejs.org/
+3. http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+
 
 **Available Clouds**
+1. https://www.openshift.com/products/pricing
+2. https://cloud.google.com/
+
+
+** Name Suggestions **
 
 1. http://www.granslate.com/
-2. https://cloud.google.com/
+2. http://www.zcore.com/
+
