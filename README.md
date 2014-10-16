@@ -16,3 +16,10 @@ BenMos
 **Addressing the Develpment Environment Issue**
 
 1. http://www.reddit.com/r/ios/comments/1rlr9m/cheapest_way_to_get_into_ios_development/
+
+
+** Node.js **
+http://nodeschool.io/
+https://www.openshift.com/products/pricing
+http://nodejs.org/
+
