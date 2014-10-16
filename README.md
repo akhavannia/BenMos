@@ -23,5 +23,6 @@ BenMos
 1. http://nodeschool.io/
 2. https://www.openshift.com/products/pricing
 3. http://nodejs.org/
+4. http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
 
 http://www.granslate.com/
