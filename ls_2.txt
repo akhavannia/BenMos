@@ -1,4 +1,0 @@
-README.md
-Test.txt
-ls.txt
-ls_2.txt
