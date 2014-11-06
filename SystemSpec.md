@@ -1,8 +1,8 @@
 **System**
 
 Location supports:
-*	Specific Location : address
-*	GPS location
+    *	Specific Location : address
+    *	GPS location
 
 1.	User should have a profile
 2.	User create incident report
