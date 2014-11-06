@@ -15,8 +15,8 @@ Location supports:
 **Server:**
 *	User management
 *	Notification Service
-    **	Send messages to client
-    **	Receive messages from clients
+    *	Send messages to client
+    *	Receive messages from clients
 *	Location
     *	Recognize users’ location
 
