@@ -1,4 +1,5 @@
-System
+**System**
+
 Location supports:
 -	Specific Location : address
 -	GPS location
@@ -10,13 +11,15 @@ Location supports:
 5-	System should be able to push notification
 a.	Alert
 b.	Advertisement
-Server:
+
+**Server:**
 -	User management
 -	Notification Service
 o	Send messages to client
 o	Receive messages from clients
 -	Location
 o	Recognize users’ location
-Client (phone app):
+
+**Client (phone app):**
 -	Send and receives notifications
 -	Updates GPS location with server
