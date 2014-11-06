@@ -21,5 +21,5 @@ Location supports:
     *	Recognize users’ location
 
 **Client (phone app):**
--	Send and receives notifications
--	Updates GPS location with server
+*	Send and receives notifications
+*	Updates GPS location with server
