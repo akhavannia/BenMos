@@ -15,10 +15,10 @@ Location supports:
 **Server:**
 -	User management
 -	Notification Service
-o	Send messages to client
-o	Receive messages from clients
+        -	Send messages to client
+        -	Receive messages from clients
 -	Location
-o	Recognize users’ location
+        -	Recognize users’ location
 
 **Client (phone app):**
 -	Send and receives notifications
