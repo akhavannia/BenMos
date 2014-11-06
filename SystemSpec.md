@@ -10,8 +10,8 @@ Location supports:
 4.	User can subscribe in a specific type of reports
 5.	System should be able to push notification
 
-  a.	Alert
-  b.	Advertisement
+  1.	Alert
+  2.	Advertisement
 
 **Server:**
 -	User management
