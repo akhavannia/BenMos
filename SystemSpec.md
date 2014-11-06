@@ -9,9 +9,8 @@ Location supports:
 3.	User can view other report
 4.	User can subscribe in a specific type of reports
 5.	System should be able to push notification
-
-  1.	Alert
-  2.	Advertisement
+    1.	Alert
+    2.	Advertisement
 
 **Server:**
 -	User management
